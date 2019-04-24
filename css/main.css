@@ -1,0 +1,26 @@
+.headermain {
+  text-align: center;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+body {
+  padding: 5em;
+  background: rgba(229, 184, 243, 1);
+}
+
+h1 {
+  font-size: 16px;
+  font-size: 4vw;
+  color: rgba(35, 0, 101, 1);
+  font-family: "Times", serif;
+}
+
+img {
+  width: 50em;
+  max-width: 100%;
+  height: auto;
+  padding: .5em;
+}
