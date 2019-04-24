@@ -1,5 +1,10 @@
-.headermain {
+.headermain,
+footer {
   text-align: center;
+}
+
+p {
+  margin: 0;
 }
 
 .container-fluid {
@@ -15,12 +20,16 @@ h1 {
   font-size: 16px;
   font-size: 4vw;
   color: rgba(35, 0, 101, 1);
-  font-family: "Times", serif;
+  font-family: "Impact", serif;
 }
 
 img {
-  width: 50em;
+  width: 25em;
   max-width: 100%;
   height: auto;
   padding: .5em;
+}
+
+.marketing-image-container {
+  text-align: center;
 }
